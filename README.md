@@ -17,9 +17,9 @@ Easy to use, Discord Guild/Server info Lookup, via the Guilds ID.
 
 -   **GitHub**
 
-```
-git clone https://github.com/cutieQue/Discord-Server-Lookup.git
-```
+[Download the ZIP file from Releases](https://github.com/cutieQue/Discord-Server-Lookup/releases).
+
+**Unzip the files**
 
 - **Install Requirements**
 
